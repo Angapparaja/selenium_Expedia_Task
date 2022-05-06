@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96550" started-at="2022-05-06T14:44:10 IST" finished-at="2022-05-06T14:45:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96550" started-at="2022-05-06T14:44:10 IST" finished-at="2022-05-06T14:45:47 IST">
+      <class name="com.ba.Task.tests.TravelPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ba.Task.tests.TravelPageTest@cf65451]" name="setup" is-config="true" duration-ms="9910" started-at="2022-05-06T14:44:10 IST" finished-at="2022-05-06T14:44:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TravelpageTitleTests()[pri:1, instance:com.ba.Task.tests.TravelPageTest@cf65451]" name="TravelpageTitleTests" duration-ms="244" started-at="2022-05-06T14:44:20 IST" finished-at="2022-05-06T14:44:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TravelpageTitleTests -->
+        <test-method status="PASS" signature="TravlePageTest()[pri:1, instance:com.ba.Task.tests.TravelPageTest@cf65451]" name="TravlePageTest" duration-ms="5266" started-at="2022-05-06T14:44:21 IST" finished-at="2022-05-06T14:44:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TravlePageTest -->
+        <test-method status="PASS" signature="SelectFirstDate()[pri:2, instance:com.ba.Task.tests.TravelPageTest@cf65451]" name="SelectFirstDate" duration-ms="14006" started-at="2022-05-06T14:44:26 IST" finished-at="2022-05-06T14:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectFirstDate -->
+        <test-method status="PASS" signature="selectTraveller()[pri:3, instance:com.ba.Task.tests.TravelPageTest@cf65451]" name="selectTraveller" duration-ms="9164" started-at="2022-05-06T14:44:40 IST" finished-at="2022-05-06T14:44:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTraveller -->
+        <test-method status="PASS" signature="searchbtn()[pri:4, instance:com.ba.Task.tests.TravelPageTest@cf65451]" name="searchbtn" duration-ms="1807" started-at="2022-05-06T14:44:49 IST" finished-at="2022-05-06T14:44:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbtn -->
+        <test-method status="PASS" signature="searchClick()[pri:5, instance:com.ba.Task.tests.TravelPageTest@cf65451]" name="searchClick" duration-ms="55552" started-at="2022-05-06T14:44:51 IST" finished-at="2022-05-06T14:45:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchClick -->
+      </class> <!-- com.ba.Task.tests.TravelPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
